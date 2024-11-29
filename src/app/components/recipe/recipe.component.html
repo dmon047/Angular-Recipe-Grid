@@ -1,0 +1,10 @@
+<!-- recipe.component.html -->
+<div class="recipe-grid">
+    <div class="recipe-card" *ngFor="let recipe of recipes">
+      <img [src]="recipe.imageUrl" alt="{{ recipe.name }}">
+      <h3>{{ recipe.name }}</h3>
+      <ul>
+        <li *ngFor="let ingredient of recipe.ingredients">{{ ingredient }}</li>
+      </ul>
+    </div>
+  </div>

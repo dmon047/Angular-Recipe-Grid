@@ -1,40 +1,27 @@
-# Angular-Recipe-Grid
-Activity 33: Angular Recipe Grid
+# AngularRecipeGrid
 
-Create a List of Object Data Structures:
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
-recipe.service.ts
+## Development server
 
-recipe.model.ts
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-recipe.component.ts
+## Code scaffolding
 
-recipe.component.html
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Creating recipe.service.ts
+## Build
 
-![image](https://github.com/user-attachments/assets/d23dd5a6-2d00-4b5a-8345-95c637202ae2)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
-Create recipe.component.html
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-![image](https://github.com/user-attachments/assets/38d76f49-4dd3-42e3-ad6a-819dd62d7bba)
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Create recipe.service.spec.ts
+## Further help
 
-![image](https://github.com/user-attachments/assets/3e578b9d-9690-40fc-a9c8-c762ace5b2c7).
-
-Create recipe.component.css
-
-![image](https://github.com/user-attachments/assets/35fdc611-21d8-47be-b593-6afbd00213f1)
-
-![image](https://github.com/user-attachments/assets/e3d1c35e-1dda-42c9-88d2-c589e01ab2cb)
-
-
-OUTPUT
-
-![image](https://github.com/user-attachments/assets/0dc8106e-5436-4db2-a133-b8f0f9e84fce)
-
-
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
